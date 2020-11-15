@@ -1,6 +1,6 @@
 # DeltaMathBot
 
-Simple program that auto completes most DeltaMath problems
+Simple script that auto completes most DeltaMath problems
 
 # Note
 
