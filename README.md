@@ -1,0 +1,11 @@
+# DeltaMathBot
+
+Simple program that auto completes most DeltaMath problems
+
+# Note
+
+This has now been patched with DeltaMath Build 251
+
+# Usage
+
+Paste contents of `AnswerScript.js` into console
