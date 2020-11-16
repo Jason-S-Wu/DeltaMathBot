@@ -17,6 +17,5 @@ for (var i = 0; i < answerLength; i++)
 }
 if (problem.ansType == 'custom')
 {
-alert('Module Not Supported');
-alert('Press Enter on DeltaMathBot');
+alert('Module Not Supported')
 }
