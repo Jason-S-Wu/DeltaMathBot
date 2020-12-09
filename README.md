@@ -4,7 +4,7 @@ Simple script that auto completes most DeltaMath problems
 
 # Note
 
-This has now been patched with DeltaMath Build 251 and I am no longer maintaing this repository. 
+This has now been patched with DeltaMath Build 251 and I am no longer maintaining this repository. 
 
 # Usage
 
